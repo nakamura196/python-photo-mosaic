@@ -275,5 +275,4 @@ import glob
 files = glob.glob("64px/*.jpg")
 
 
-create_mosaic("aka.jpg", "aka.jpg", tile_ratio=1920 /
-              800, tile_width=32, enlargement=3, reuse=False, color_mode='RGB', tile_paths=files, shuffle_first=30)
+create_mosaic("aka0.jpg", "aka.jpg", tile_ratio=1, tile_width=32, enlargement=3, reuse=True, color_mode='RGB', tile_paths=files, shuffle_first=30)
