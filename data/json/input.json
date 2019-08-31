@@ -1,6 +1,18 @@
-[
-    {
-        "original" : "",
-        "item": ""
-    }
-]
+{   
+    "output_path": "../docs/output/json/test.json",
+    "manifest_uri": "https://nakamura196.github.io/python-photo-mosaic/output/json/test.json",
+    "images": [
+        {
+            "original": "https://nakamura196.github.io/python-photo-mosaic/output/images/aka.jpg",
+            "item": "https://nakamura196.github.io/python-photo-mosaic/input/images/aka.jpg"
+        },
+        {
+            "original": "https://nakamura196.github.io/python-photo-mosaic/output/images/matsu.jpg",
+            "item": "https://nakamura196.github.io/python-photo-mosaic/input/images/matsu.jpg"
+        },
+        {
+            "original": "https://nakamura196.github.io/python-photo-mosaic/output/images/matsu2.jpg",
+            "item": "https://nakamura196.github.io/python-photo-mosaic/input/images/matsu2.jpg"
+        }
+    ]
+}
