@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "aka",
+  "@id": "http://nakamura196.github.io/python-photo-mosaic/input/images/aka",
   "height": 2040,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
